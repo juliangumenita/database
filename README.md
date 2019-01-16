@@ -1,10 +1,6 @@
-# Mint
-
-Mint is a set of useful PHP codes for handling anything from database connections to code utilization.
-
 ## Getting Started
 
-Mint uses one of the latest PHP version (7.2.4).
+This library uses one of the latest PHP version (7.2.4).
 
 ## Database Class
 
