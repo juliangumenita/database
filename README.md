@@ -8,7 +8,7 @@ This library uses one of the latest PHP version (7.2.4).
 
 ```
 $database = new Database;
-Database::connected();
+$database::connected();
 ```
 
 ### Creating A Secure Query
