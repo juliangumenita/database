@@ -7,7 +7,7 @@ class Database{
   private static $host = "localhost";
   private static $username = "root";
   private static $password = "";
-  private static $database = "lime";
+  private static $database = "database";
 
   private static $connected = false;
   private static $connection;
